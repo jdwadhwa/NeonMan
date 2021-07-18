@@ -1,4 +1,4 @@
-//import { func } from "prop-types";
+
 import react,{useEffect,useState} from "react";
 
 import alanBtn from "@alan-ai/alan-sdk-web";
@@ -9,7 +9,6 @@ import Newscards from "./components/newscards/newscards";
 
 import wordstonumbers from "words-to-numbers";
 
-import { highlight } from "./actions/highlight";
 
 const alankey ="9a50f9d9d2b2637c0767d1ca0d97f1782e956eca572e1d8b807a3e2338fdd0dc/stage";
 
